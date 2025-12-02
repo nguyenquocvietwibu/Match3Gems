@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BG Back
+    uniqueID: 4273267251
+    locked: 0
+  - name: BG Front
+    uniqueID: 1805267095
+    locked: 0
+  - name: Gem
+    uniqueID: 3045996361
+    locked: 0
